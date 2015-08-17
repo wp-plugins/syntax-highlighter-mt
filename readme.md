@@ -1,4 +1,8 @@
 [![Stories in Ready](https://badge.waffle.io/iamthechad/syntaxhighlightermt.png?label=ready&title=Ready)](https://waffle.io/iamthechad/syntaxhighlightermt)
+<<<<<<< HEAD
+=======
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/b3441f83-877b-4039-9853-2ca7e4835aee/mini.png)](https://insight.sensiolabs.com/projects/b3441f83-877b-4039-9853-2ca7e4835aee)
+>>>>>>> master
 
 Provides a simple way to use the Syntax Highlighter tool from [http://alexgorbatchev.com/wiki/SyntaxHighlighter](http://alexgorbatchev.com/wiki/SyntaxHighlighter)
 
@@ -155,4 +159,8 @@ There are several plugins already that are named Syntax Highlighter, or some var
 2. Styled Groovy code using the Django theme.
 ![Styled Groovy Code using the Django theme](https://github.com/iamthechad/syntaxhighlightermt/blob/master/screenshot-2.png?raw=true "Styled Groovy Code using the Django theme")
 3. Styled Groovy code using the FadeToGrey theme.
+<<<<<<< HEAD
 ![Styled Groovy Code usin gthe FadeToGrey theme](https://github.com/iamthechad/syntaxhighlightermt/blob/master/screenshot-3.png?raw=true "Styled Groovy Code using the FadeToGrey theme")
+=======
+![Styled Groovy Code usin gthe FadeToGrey theme](https://github.com/iamthechad/syntaxhighlightermt/blob/master/screenshot-3.png?raw=true "Styled Groovy Code using the FadeToGrey theme")
+>>>>>>> master
